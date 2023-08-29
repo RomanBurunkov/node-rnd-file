@@ -1,0 +1,24 @@
+{
+  "name": "rnd-file",
+  "version": "0.0.1",
+  "description": "Generation of a random files with Node.JS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBurunkov/node-rnd-file.git"
+  },
+  "keywords": [
+    "generate",
+    "random",
+    "files"
+  ],
+  "author": "RomanBurunkov <romon2002@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RomanBurunkov/node-rnd-file/issues"
+  },
+  "homepage": "https://github.com/RomanBurunkov/node-rnd-file#readme"
+}
