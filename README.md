@@ -17,6 +17,7 @@ fileName | File name as a String| 'random.file'
 filePath | Path to a file as a String| os.tmpdir()
 fileSize | File size in bytes as a Number | 1024
 chunkSize | Chunk size in bytes as a Number | 1024
+hashAlgo | Algorithm name to generate file's hash as a String | 'md5'
 
 
 ## Usage Example:
