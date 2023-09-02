@@ -128,3 +128,7 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# tmp folder for tests
+test/tmp
+test/tmp/*
