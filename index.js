@@ -1,3 +1,6 @@
-const rndFile = require('./lib/rnd.file.js');
+const { randomFile } = require('./lib/rnd.file');
 
-module.exports = rndFile;
+randomFile({ filePath: 'C:\\randomfiles' })
+  .then((file) => console.log(file));
+
+module.exports = randomFile;
