@@ -1,4 +1,8 @@
 # node-rnd-file
+
+[![npm](https://img.shields.io/npm/v/rnd-file.svg)](https://www.npmjs.org/package/rnd-file)
+[![codecov](https://codecov.io/gh/RomanBurunkov/tm-is/branch/main/graph/badge.svg?token=64HIR1FX0Z)](https://codecov.io/gh/RomanBurunkov/tm-is)
+
 Generation of a random files with Node.JS.
 
 This module uses fs write streams, so in addition to file's name and path,
